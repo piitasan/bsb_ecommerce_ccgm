@@ -1,4 +1,4 @@
-# 🍰 BSB E-Commerce CCGM
+# 🍰 BSB E-Commerce CCGM FINAL
 
 **Byte-Sized Bakes**: An E-Commerce Asset Store for 3D Modeled Pastries
 
